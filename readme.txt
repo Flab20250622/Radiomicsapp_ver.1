@@ -58,6 +58,9 @@ Start the analysis.
 A 'Finish analysis' pop-up will appear once the analysis is complete.
 All analysis data is provided as a csv file.
 
+**License**
+This package is covered by the open source 3-clause BSD License.
+
 **Disclaimer**
 The author assumes no responsibility or obligation to correct any defects in this program, nor for any damages that may result from its use. 
 
